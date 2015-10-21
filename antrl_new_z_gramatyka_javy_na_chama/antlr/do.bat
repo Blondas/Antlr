@@ -1,0 +1,1 @@
+antlr4 -o ../src/pl/edu/agh/java/antlr -package pl.edu.agh.java.antlr Java2.g4

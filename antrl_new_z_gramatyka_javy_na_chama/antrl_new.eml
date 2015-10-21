@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/antrl_new"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="C:\Users\chris\IdeaProjects\antrl_new_z_gramatyka_javy_na_chama\antlr\antlr-4.4-complete.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/antlr/antlr-4.4-complete.jar!/"/>
+	</lib>
+</component>
